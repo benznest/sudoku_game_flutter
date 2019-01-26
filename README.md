@@ -1,16 +1,12 @@
-# sudoku_game
+# Sudoku Game
 
-A new Flutter application.
+on Flutter
 
-## Getting Started
+![Game Play](images/a8.gif)
 
-This project is a starting point for a Flutter application.
+![Game Play](images/a15.gif)
 
-A few resources to get you started if this is your first Flutter project:
+![Game Play](images/23.png)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# My Blog
+[Blog](https://benzneststudios.com/blog/flutter/creating-sudoku-game-using-flutter/)
